@@ -11,3 +11,16 @@ C:\Users\howli\Desktop\CS3280\FinalProject\FinalProject\obj\Debug\FinalProject.f
 C:\Users\howli\Desktop\CS3280\FinalProject\FinalProject\obj\Debug\FinalProject.exe
 C:\Users\howli\Desktop\CS3280\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
 C:\Users\howli\Desktop\CS3280\FinalProject\FinalProject\obj\Debug\FinalProject.exe.config
+C:\Users\howli\Desktop\Student-Course-Management-System\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\howli\Desktop\Student-Course-Management-System\FinalProject\obj\Debug\FinalProject.exe.config
+C:\Users\howli\Desktop\Student-Course-Management-System\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\howli\Desktop\Student-Course-Management-System\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\howli\Desktop\Student-Course-Management-System\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\howli\Desktop\Student-Course-Management-System\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\howli\Desktop\Student-Course-Management-System\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\howli\Desktop\Student-Course-Management-System\FinalProject\obj\Debug\FinalProject.MainWindow.resources
+C:\Users\howli\Desktop\Student-Course-Management-System\FinalProject\obj\Debug\FinalProject.frmCourses.resources
+C:\Users\howli\Desktop\Student-Course-Management-System\FinalProject\obj\Debug\FinalProject.frmStudents.resources
+C:\Users\howli\Desktop\Student-Course-Management-System\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\howli\Desktop\Student-Course-Management-System\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\howli\Desktop\Student-Course-Management-System\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
