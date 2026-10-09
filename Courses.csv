@@ -1,0 +1,6 @@
+CourseId,CourseCode,CourseTitle,CourseDescription,Credits,Level,Mode,Building,Room,MeetingTime,MeetingLink,Proctored,HybridMeetingType
+1,CS101,Introduction to Programming,Learn C# from scratch,3,100,In-Person,Tech Building,Room 201,MWF 9:00-10:20,,False,
+2,MATH301,Calculus III,Multivariable calculus,4,300,Online,,,,https://zoom.us/j/987654321,True,
+3,ENG201,Technical Writing,Professional communication skills,3,200,Hybrid,Main Hall,Lecture Hall 1,Tue 14:00-15:30,https://teams.microsoft.com/l/meetup-join/abc123,False,Synchronous
+4,PSY101,Introduction to Psychology,Basic psychological principles,3,100,In-Person,Psychology Bldg,Room 105,TR 11:00-12:20,,False,
+5,BIO450,Genetics,DNA and inheritance patterns,4,400,Online,,,,https://zoom.us/j/555666777,True,
